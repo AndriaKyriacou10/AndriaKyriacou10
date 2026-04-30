@@ -1,4 +1,5 @@
 # Hi there! I'm Andria 👋 
+I'm a Computer Engineering graduate currently pursuing an MSc in Applied Machine Learning, with a strong focus on autonomous systems, robotics, and computer vision.
 
 # 💫 About Me:
 * 🎓 Pursuing an MSc in Applied Machine Learning at Imperial College London. </br>
