@@ -6,7 +6,7 @@ I'm a Computer Engineering graduate currently pursuing an MSc in Applied Machine
 * 💻 Currently working on my Individual Research Project (Master's Dissertation) involving 3D scene reconstruction using stereo vision. </br>
 
 ### 🚀 Featured Projects
-* 🚧 **Reconstructing Reality: Stereo Vision in Action (StereoLite)** My MSc thesis, supervised by Prof. Krystian Mikolajczyk (MatchLab):
+* **Reconstructing Reality: Stereo Vision in Action (StereoLite)** My MSc thesis, supervised by Prof. Krystian Mikolajczyk (MatchLab):
 - **StereoLite:** a LiteAnyStereo variant without a cost volume, with 71% fewer parameters and 52% lower latency than the cost-volume model.
 - **Temporal stabilisation:** applying BiDAStabilizer post hoc to a frozen LiteAnyStereo, reducing temporal error by up to 7% with no retraining of the base model. [[Repo]](https://github.com/AndriaKyriacou10/StereoLite)</br>
 * **Autonomous Maze Navigation:** Developed an autonomous navigation agent for a DAGU 4WD platform using a custom Q-learning and Vector Field Histogram (VFH) architecture. Built a digital twin in Gazebo and successfully deployed the trained model onto an Arduino Portenta H7. [[Repo]](https://github.com/aahaidar01/Robotron) </br>
